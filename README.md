@@ -1,16 +1,68 @@
-## Hi there 👋
+## 👋 Hi, I'm Moamen Ahmed
 
-<!--
-**Moamen71244/Moamen71244** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a dedicated Computer Science student at **Zagazig University – Faculty of Computers and Information**, passionate about building clean, efficient, and scalable software solutions.  
+I’m constantly developing my skills in both **software development** and **web development**, and I enjoy learning new technologies that help me grow as a developer.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 About Me
+- 💻 CS Student with strong interest in frontend, backend, SaaS, and modern web technologies  
+- 🚀 Always exploring new tools, frameworks, and problem-solving techniques  
+- 🧑‍💻 **Currently available for freelance work as a Front-End Developer**  
+- 🎨 Focused on building fast, responsive, and SEO-friendly web interfaces  
+- 🔍 Passionate about clean code, good UI/UX, and high-quality web experiences  
+
+---
+
+## 🛠️ Technical Skills
+
+### 🔹 Programming Languages
+- C++
+- Java
+
+### 🔹 Web Development (Frontend)
+- HTML  
+- CSS  
+- JavaScript  
+- **React.js**  
+- **Tailwind CSS**  
+- **Bootstrap**
+
+### 🔹 Web Development (Backend)
+- PHP  
+- Laravel Framework  
+
+### 🔹 Databases
+- MySQL  
+- SQL Fundamentals  
+
+### 🔹 Other Skills
+- **SEO (Search Engine Optimization)**  
+- **SaaS Development Concepts**  
+- Performance Optimization  
+
+---
+
+## 🌟 What I’m Interested In
+- Freelance Front-End development  
+- Building modern SaaS applications  
+- SEO-friendly web development  
+- Responsive UI & interactive front-end design  
+- Full-stack development  
+- Creating practical projects that solve real problems  
+
+---
+
+## 🎯 My Goals
+- Grow as a professional front-end & full-stack developer  
+- Build a strong portfolio of real-world freelance projects  
+- Develop scalable and SEO-optimized web applications  
+- Collaborate with clients and developers around the world  
+
+---
+
+## 📫 Contact
+I'm currently available for **freelance front-end projects**.  
+Feel free to reach out for collaboration, project work, or opportunities!  
+
+---
